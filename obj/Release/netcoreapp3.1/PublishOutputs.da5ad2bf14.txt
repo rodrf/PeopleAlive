@@ -1,0 +1,6 @@
+X:\PeopleAlive\PeopleAlive.exe
+X:\PeopleAlive\PeopleAlive.dll
+X:\PeopleAlive\PeopleAlive.deps.json
+X:\PeopleAlive\PeopleAlive.runtimeconfig.json
+X:\PeopleAlive\PeopleAlive.pdb
+X:\PeopleAlive\Newtonsoft.Json.dll

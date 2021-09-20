@@ -1,0 +1,15 @@
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.exe
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.deps.json
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.runtimeconfig.json
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.runtimeconfig.dev.json
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.dll
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\PeoopleAlive.pdb
+C:\Users\Rod\Source\Repos\PeoopleAlive\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.csproj.AssemblyReference.cache
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.AssemblyInfoInputs.cache
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.AssemblyInfo.cs
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.csproj.CoreCompileInputs.cache
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.csproj.CopyComplete
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.dll
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.pdb
+C:\Users\Rod\Source\Repos\PeoopleAlive\obj\Release\netcoreapp3.1\PeoopleAlive.genruntimeconfig.cache
